@@ -1,5 +1,5 @@
 class Empleado {
-    String nombre;
+    final String nombre;
     int edad;
 
     Empleado(String name, int edad) {
